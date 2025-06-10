@@ -22,7 +22,30 @@ A responsive YouTube clone web application built with HTML, CSS, and JavaScript 
 - YouTube Data API v3
 - Google Queries API for search suggestions
 
-## Setup Instructions
+## Deployment
+
+### GitHub Pages Deployment
+
+1. **Push to GitHub**
+   ```bash
+   git add .
+   git commit -m "YouTube Clone - Ready for deployment"
+   git push origin main
+   ```
+
+2. **Enable GitHub Pages**
+   - Go to your repository on GitHub
+   - Click on "Settings" tab
+   - Scroll down to "Pages" section
+   - Under "Source", select "Deploy from a branch"
+   - Choose "main" branch and "/ (root)" folder
+   - Click "Save"
+
+3. **Access your live site**
+   - Your site will be available at: `https://yourusername.github.io/repo-name/`
+   - It may take a few minutes to deploy
+
+### Local Development
 
 ### Prerequisites
 - A YouTube Data API key from Google Developer Console
@@ -120,7 +143,9 @@ function throttle(func, limit) {
 - Search suggestions may be blocked by CORS in some environments
 
 ## Live Demo
-[Deployed Link Here] - Replace with your actual deployment URL
+🌐 **[View Live Demo](https://yourusername.github.io/your-repo-name/)** 
+
+*Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name*
 
 ## API Key Security
 ⚠️ **Important**: In production, never expose API keys in client-side code. Use environment variables and a backend proxy for secure API calls.
