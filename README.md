@@ -6,7 +6,7 @@ A responsive YouTube clone web application built with HTML, CSS, and JavaScript 
 
 ### Core Features
 - **Homepage Dashboard**: Responsive grid layout displaying popular videos
-- **Search Functionality**: Search for videos using YouTube Data API
+- **Search Functionality**: Search for videos using the YouTube Data API
 - **Navigation Bar**: Fixed navigation with logo, search bar, and menu links
 - **Responsive Design**: Works on desktop and mobile devices
 - **Video Player**: Modal video player using YouTube iframes
