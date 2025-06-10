@@ -143,5 +143,5 @@ function throttle(func, limit) {
 - Search suggestions may be blocked by CORS in some environments
 
 ## Live Demo
-🌐 **[View Live Demo]([(https://vdabral.github.io/RM101-B46-Assignment-5/)])** 
+🌐 **[View Live Demo](https://vdabral.github.io/RM101-B46-Assignment-5/)** 
 
