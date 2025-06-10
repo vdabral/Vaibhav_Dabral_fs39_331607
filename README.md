@@ -143,9 +143,5 @@ function throttle(func, limit) {
 - Search suggestions may be blocked by CORS in some environments
 
 ## Live Demo
-🌐 **[View Live Demo](https://yourusername.github.io/your-repo-name/)** 
+🌐 **[View Live Demo]([https://yourusername.github.io/your-repo-name/](https://vdabral.github.io/RM101-B46-Assignment-5/))** 
 
-*Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name*
-
-## API Key Security
-⚠️ **Important**: In production, never expose API keys in client-side code. Use environment variables and a backend proxy for secure API calls.
